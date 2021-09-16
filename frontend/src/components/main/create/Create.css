@@ -1,0 +1,23 @@
+.create_inputs {
+    display: flex;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.instrument_inputs {
+    display: flex;
+    flex-direction: column;
+    margin: 0rem 5rem
+}
+
+.order_inputs {
+    display: flex;
+    flex-direction: column;
+    margin: 0rem 5rem
+}
+
+.create_button {
+    position: relative;
+    left: 60vw;
+    margin:5px;
+}

@@ -1,0 +1,15 @@
+.info_body {
+display: flex;
+justify-content: space-evenly;
+}
+
+/* .info_sub{
+    display: flex;
+justify-content:space-between;
+} */
+
+.info_part p{
+margin:0;
+font-size: 18px;
+}
+

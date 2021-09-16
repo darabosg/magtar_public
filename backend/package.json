@@ -1,0 +1,42 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js",
+        "test": "jest --detectOpenHandles"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "cors": "^2.8.5",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "express-async-handler": "^1.1.4",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^5.13.2"
+    },
+    "devDependencies": {
+        "jest": "^27.0.6",
+        "mongodb-memory-server": "^7.3.4",
+        "nodemon": "^2.0.12",
+        "supertest": "^6.1.4"
+    },
+    "jest": {
+        "testEnvironment": "node",
+        "coverageDirectory": "./__tests__/coverage",
+        "collectCoverage": true,
+        "coverageReporters": [
+            "json",
+            "html"
+        ],
+        "testPathIgnorePatterns": [
+            "__utils__",
+            "coverage"
+        ]
+    }
+}

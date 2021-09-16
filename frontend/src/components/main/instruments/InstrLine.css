@@ -1,0 +1,16 @@
+.instrument_line {
+   font-size: 13px !important;
+   text-align: center;
+}
+
+
+
+.actions {
+    display: flex;
+    justify-content: center;
+}
+
+.instruments_thead {
+    font-size: 16px;
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+/* .home_container {
+display: flex;
+justify-content: center;
+align-items: center;
+width:100%;
+height: 100%;
+
+}
+
+.home_box {
+    position: relative;
+    width:600px;
+    text-align: center;
+}
+
+.welcome {
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.home_header {
+font-weight: 900;
+margin:0;
+} */

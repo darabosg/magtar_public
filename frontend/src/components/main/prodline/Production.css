@@ -1,0 +1,8 @@
+.edit_single {
+width:200px;
+height: 80px;
+}
+
+.edit_part {
+    display: flex;
+}

@@ -1,0 +1,29 @@
+.users {
+    width:400px;
+    padding:5px;
+    margin-left: 80px;
+}
+
+.add_list_element {
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.user_element {
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+    font-size: 16px;
+}
+
+
+.user_add_input {
+margin: 0;
+}
+
+.user_list {margin: 0; padding: 0;}
+
+.user_list li {
+    margin:0;
+}

@@ -1,0 +1,7 @@
+.message {
+    display: block;
+    position: fixed;
+    bottom: 0px;
+    right: 10px;
+    width: 200px;
+}

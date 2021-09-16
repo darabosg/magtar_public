@@ -1,0 +1,47 @@
+.cards {
+    display: flex;
+    height:75%
+}
+
+.setting {
+    background: none !important;
+    width: 15vw;
+    margin-right: 2rem;
+}
+
+.settings_list {
+    list-style: none;
+    padding: 0;
+    height: 88%;
+    overflow-y:auto;
+}
+
+.settings_list_element {
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.settings_list_element_title {
+    margin:0;
+}
+
+.add_input {
+margin: 0;
+    height: 2rem;
+    width: 70%;
+}
+
+.add_button{
+    margin: 0 !important;
+    height: 2rem;
+    width: 30%;
+    padding:0 !important;
+}
+
+
+.add_list_element {
+    margin-bottom: 1rem;
+    width: 100%
+}

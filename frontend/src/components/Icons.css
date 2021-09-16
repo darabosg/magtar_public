@@ -1,0 +1,25 @@
+.tooltip_text {
+    font-size: 13px !important;
+}
+
+.icon_button {
+    margin:1px;
+    width: 25px;
+    height: 25px;
+    padding: 0 !important;
+}
+
+.icon_button svg {
+    margin-bottom: 7px;
+    font-size: 18px;
+}
+
+.icon_green {
+color:green;
+font-size: 20px;
+}
+
+.icon_red {
+color:red;
+font-size: 20px;
+}

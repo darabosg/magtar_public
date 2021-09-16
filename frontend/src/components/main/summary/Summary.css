@@ -1,0 +1,16 @@
+.summary_table {
+    width: 500px !important;
+    text-align: center;
+}
+
+.summary_all {
+    color:chartreuse;
+}
+
+.summary_bp {
+color: rgb(255, 86, 86);
+}
+
+.summary_gyor {
+color: gold;
+}

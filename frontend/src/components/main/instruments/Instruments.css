@@ -1,0 +1,24 @@
+
+
+.instrument_table {
+border-radius: 0.25rem !important;
+overflow: hidden;
+}
+
+th {
+    padding:1px !important; 
+}
+td {
+    padding:1px !important; 
+    /* white-space: nowrap; */
+}
+
+.subnav_button {
+    height:2rem;
+    padding:0px 10px !important;
+    margin: 5px 10px 5px 0;
+}
+
+.filter_input {
+    margin-left: 5px;
+}
